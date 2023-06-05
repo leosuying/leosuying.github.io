@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc008ac7.css",
+    "main.js": "/static/js/main.54fd838a.js",
+    "static/media/bg.png": "/static/media/bg.59087b0205bb5832495e.png",
+    "static/media/battery_icon2.png": "/static/media/battery_icon2.e8fa8eb10db9ea01271e.png",
+    "static/media/battery_icon1.png": "/static/media/battery_icon1.9082b2a51aa35c89cf9e.png",
+    "static/media/audio.mp3": "/static/media/audio.ea0687cbc843361fe137.mp3",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.dc008ac7.css.map": "/static/css/main.dc008ac7.css.map",
+    "main.54fd838a.js.map": "/static/js/main.54fd838a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc008ac7.css",
+    "static/js/main.54fd838a.js"
+  ]
+}
